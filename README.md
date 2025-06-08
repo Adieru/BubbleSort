@@ -1,2 +1,2 @@
 # BubbleSort
-Trying repos out
+Using bubble sort in an array - in python
